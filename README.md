@@ -1,2 +1,2 @@
-# autotest_api
-python autotest
+# python autotest api project
+based on pytest + allure + playwright
